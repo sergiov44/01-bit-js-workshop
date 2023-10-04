@@ -30,7 +30,8 @@ El propósito del mismo es permitir al estudiante desarrollar ejercicios de lóg
 
 13. Implementar funciones para calcular la calificación final de un grupo de estudiantes, considerando el promedio de las notas y el promedio de los exámenes.
 
-14. Utilizar clases para gestionar la información de un grupo de estudiantes y calcular las calificaciones finales considerando notas y exámenes.
+14. Utilizar clases para gestionar la información de un grupo de estudiantes y calcular las calificaciones finales considerando 
+notas y exámenes.
 
 15. Agregar la opción de ingresar el número total de estudiantes y las notas correspondientes de cada materia y examen, así como los porcentajes de ponderación de las notas y los exámenes para calcular la calificación final de cada estudiante.
 
