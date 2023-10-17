@@ -1,6 +1,4 @@
-/* 2. Usando el prompt captura el nombre de un producto. Define una variable que se llame precio con el valor inicial de 0 (cero) e incrementa el precio en 1 por cada letra que tenga el producto, ejemplo:
-- Si el producto se llama 'Mango', el precio debe ser de 5. El mensaje será `El mango tiene un valor de $5 la unidad`
-- Si el producto se llama 'Mandarina', el precio debe ser de 9. El mensaje será  `El mandarina tiene un valor de $9 la unidad` */
+// 02 Prompt for a product's name, define a price variable, and have it increase in 1 as many times as letters the product's name has. Do the same with a decreasing variable.
 
 let product = prompt("Type the name of a fruit: ");
 let price = 0;
